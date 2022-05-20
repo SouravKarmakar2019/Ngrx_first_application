@@ -1,0 +1,45 @@
+.no-experience {
+    text-align: center;
+    
+}
+
+.no-experience p.header {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+.no-experience p.content {
+    font-size: 18px;
+    color: #626467;
+    margin-bottom: 20px;
+}
+
+.no-experience button.btn-blue {
+    background: #045383;
+    color: #fff;
+    border: 1px solid #045383; 
+    padding: 10px 15px;
+    min-width: 150px;
+    border-radius: 4px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.no-experience button.btn-blue:hover {
+    background: #034062;
+    color: #fff;
+    border: 1px solid #034062;
+}
+
+.no-experience button.btn-white {
+    background: #fff;
+    color: #045383;
+    border: 1px solid #dad9bd; 
+    padding: 10px 15px;
+    min-width: 100px;
+    border-radius: 4px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.no-experience button.btn-white:hover {
+    background: #dad9bd;
+    border: 1px solid #dad9bd; 
+}

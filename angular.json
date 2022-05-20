@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular-app"
+  "defaultProject": "angular-app",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
